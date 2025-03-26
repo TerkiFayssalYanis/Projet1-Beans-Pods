@@ -33,3 +33,5 @@ Les canaux de vente : Les ventes en ligne semblent rapporter plus que d'autres c
 
 Conclusion
 L’analyse nous a aidé à mieux comprendre où et quels produits se vendent le plus. Grâce aux graphiques, on a pu visualiser rapidement les résultats. Cela peut aider à ajuster les stratégies de vente, comme par exemple en mettant l’accent sur certaines régions ou produits où les ventes sont plus faibles.
+
+lien git hub : https://github.com/TerkiFayssalYanis/Projet1-Beans-Pods.gitgit 
